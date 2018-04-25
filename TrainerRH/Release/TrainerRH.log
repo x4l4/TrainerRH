@@ -1,0 +1,25 @@
+﻿Compilazione avviata 16/01/2013 12:42:10.
+     1>Progetto "C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\TrainerRH\TrainerRH.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di "Release\TrainerRH.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\TrainerRH.res" TrainerRH.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\Release\Rusty Hearts Final.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Rusty Hearts Final.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\Release\Rusty Hearts Final.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\Release\Rusty Hearts Final.lib" /MACHINE:X86 Release\TrainerRH.res
+         Release\main.obj
+         Generazione codice in corso...
+         Generazione codice terminata
+         TrainerRH.vcxproj -> C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\Release\Rusty Hearts Final.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\Release\Rusty Hearts Final.exe;#1" /manifest "Release\Rusty Hearts Final.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Eliminazione del file "Release\TrainerRH.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Release\TrainerRH.lastbuildstate".
+     1>Compilazione progetto "C:\Users\Sal\Documents\Visual Studio 2010\Projects\TrainerRH\TrainerRH\TrainerRH.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:01.93
